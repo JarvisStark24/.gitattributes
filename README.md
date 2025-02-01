@@ -1,1 +1,2 @@
-# .gitattributes
+*.cpp linguist-vendored
+*.h linguist-vendored
